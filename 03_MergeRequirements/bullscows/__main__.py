@@ -1,5 +1,5 @@
 import urllib.request
-from .bullscows import ask, gameplay, inform
+from .bullscows_src import ask, gameplay, inform
 import argparse
 
 
