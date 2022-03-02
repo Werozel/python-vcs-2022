@@ -1,6 +1,6 @@
 import locale
 import argparse
-from .figdate import date
+from figdate.figdate import date
 
 
 if __name__ == "__main__":
